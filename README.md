@@ -128,4 +128,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ Tushar's Leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ Tushar's Leetcode
 | [0001-two-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -86,6 +89,7 @@ Tushar's Leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -114,4 +118,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ Tushar's Leetcode
 | [0015-3sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
@@ -150,6 +151,7 @@ Tushar's Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy

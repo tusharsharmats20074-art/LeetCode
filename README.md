@@ -89,6 +89,7 @@ Tushar's Leetcode
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |

@@ -22,6 +22,7 @@ Tushar's Leetcode
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Tushar's Leetcode
 | [0066-plus-one](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -188,5 +190,6 @@ Tushar's Leetcode
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

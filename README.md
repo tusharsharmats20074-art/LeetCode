@@ -108,6 +108,7 @@ Tushar's Leetcode
 | [0087-scramble-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0087-scramble-string) |
 | [0168-excel-sheet-column-title](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0796-rotate-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -197,4 +198,8 @@ Tushar's Leetcode
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

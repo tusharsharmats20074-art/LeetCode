@@ -30,6 +30,7 @@ Tushar's Leetcode
 | [0013-roman-to-integer](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -143,6 +145,7 @@ Tushar's Leetcode
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -205,4 +208,8 @@ Tushar's Leetcode
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0796-rotate-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tusharsharmats20074-art/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
